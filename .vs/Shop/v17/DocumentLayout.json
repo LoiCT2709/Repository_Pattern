@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\sqlserver\\sqlserverproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\sqlserver\\sqlserverproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\sqlserver\\sqlserverorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\sqlserver\\sqlserverorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\inmemory\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\inmemory\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\inmemory\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\inmemory\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\unitofwork\\sqlserver\\sqlservercheckoutunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\unitofwork\\sqlserver\\sqlservercheckoutunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\unitofwork\\icheckoutunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\unitofwork\\icheckoutunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\productsortby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\productsortby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\pagingcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\pagingcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\orderfindcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\orderfindcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\ordersortby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\ordersortby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\repository\\productfindcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\repository\\productfindcreterias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan20\\re_code\\shop\\shop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5359090-BE88-40E4-9EBD-7834A2F9FEC0}|Shop\\Shop.csproj|solutionrelative:shop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 941,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderFindCreterias.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\OrderFindCreterias.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\OrderFindCreterias.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\OrderFindCreterias.cs",
+              "RelativeToolTip": "Shop\\Repository\\OrderFindCreterias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:58:40.493Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\InMemory\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\InMemory\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\InMemory\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\InMemory\\InMemoryProductRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:57:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:20:02.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\InMemory\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\InMemory\\InMemoryOrderRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\InMemory\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\InMemory\\InMemoryOrderRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:49:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlServerOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\SqlServer\\SqlServerOrderRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\SqlServer\\SqlServerOrderRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\SqlServer\\SqlServerOrderRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\SqlServer\\SqlServerOrderRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:18:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlServerProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\SqlServer\\SqlServerProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\SqlServer\\SqlServerProductRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\SqlServer\\SqlServerProductRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\SqlServer\\SqlServerProductRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAALkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:19:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop\\appsettings.json",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\appsettings.json",
+              "RelativeToolTip": "Shop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T09:00:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlServerCheckoutUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\UnitOfWork\\SqlServer\\SqlServerCheckoutUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Shop\\UnitOfWork\\SqlServer\\SqlServerCheckoutUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\UnitOfWork\\SqlServer\\SqlServerCheckoutUnitOfWork.cs",
+              "RelativeToolTip": "Shop\\UnitOfWork\\SqlServer\\SqlServerCheckoutUnitOfWork.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:55:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICheckoutUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\UnitOfWork\\ICheckoutUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Shop\\UnitOfWork\\ICheckoutUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\UnitOfWork\\ICheckoutUnitOfWork.cs",
+              "RelativeToolTip": "Shop\\UnitOfWork\\ICheckoutUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:56:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:52:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Shop\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:58:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderSortBy.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\OrderSortBy.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\OrderSortBy.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\OrderSortBy.cs",
+              "RelativeToolTip": "Shop\\Repository\\OrderSortBy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:05:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagingCreterias.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\PagingCreterias.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\PagingCreterias.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\PagingCreterias.cs",
+              "RelativeToolTip": "Shop\\Repository\\PagingCreterias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:00:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductSortBy.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\ProductSortBy.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\ProductSortBy.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\ProductSortBy.cs",
+              "RelativeToolTip": "Shop\\Repository\\ProductSortBy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:06:35.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Shop\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\Order.cs",
+              "RelativeToolTip": "Shop\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:35:14.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductFindCreterias.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\ProductFindCreterias.cs",
+              "RelativeDocumentMoniker": "Shop\\Repository\\ProductFindCreterias.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Repository\\ProductFindCreterias.cs",
+              "RelativeToolTip": "Shop\\Repository\\ProductFindCreterias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:00:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Shop\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Shop\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:40:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Shop\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan20\\Re_code\\Shop\\Shop\\Entities\\Product.cs",
+              "RelativeToolTip": "Shop\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:32:08.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
