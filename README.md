@@ -48,6 +48,6 @@ Cập nhật chuỗi kết nối SQL Server trong `appsettings.json` hoặc file
 ```json
 {
   "ConnectionString": {
-    "Default": "Server=YOUR_SERVER;Database=ShopDB;Trusted_Connection=True;TrustServerCertificate=True;"
+    "Default": "Server=YOUR_SERVER;Database=Shop;Trusted_Connection=True;TrustServerCertificate=True;"
   }
 }
